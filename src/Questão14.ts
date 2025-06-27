@@ -1,3 +1,4 @@
+
 function Impar(valor: number): boolean {
     if (typeof valor === "number") {
         return valor % 2 !== 0
